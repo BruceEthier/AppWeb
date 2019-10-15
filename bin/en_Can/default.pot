@@ -1,0 +1,1016 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2019-10-12 20:31+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/CategoriesController.php:54
+#: Controller/CategoriesController.php:78
+msgid "The category has been saved."
+msgstr ""
+
+#: Controller/CategoriesController.php:58
+#: Controller/CategoriesController.php:82
+msgid "The category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CategoriesController.php:99
+msgid "The category has been deleted."
+msgstr ""
+
+#: Controller/CategoriesController.php:101
+msgid "The category could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CivilitesController.php:54
+#: Controller/CivilitesController.php:78
+msgid "The civilite has been saved."
+msgstr ""
+
+#: Controller/CivilitesController.php:58
+#: Controller/CivilitesController.php:82
+msgid "The civilite could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CivilitesController.php:99
+msgid "The civilite has been deleted."
+msgstr ""
+
+#: Controller/CivilitesController.php:101
+msgid "The civilite could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/EmployesController.php:57
+#: Controller/EmployesController.php:84
+msgid "The employe has been saved."
+msgstr ""
+
+#: Controller/EmployesController.php:61
+#: Controller/EmployesController.php:88
+msgid "The employe could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/EmployesController.php:108
+msgid "The employe has been deleted."
+msgstr ""
+
+#: Controller/EmployesController.php:110
+msgid "The employe could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/EmployesFormationsController.php:57
+#: Controller/EmployesFormationsController.php:83
+msgid "The employes formation has been saved."
+msgstr ""
+
+#: Controller/EmployesFormationsController.php:61
+#: Controller/EmployesFormationsController.php:87
+msgid "The employes formation could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/EmployesFormationsController.php:106
+msgid "The employes formation has been deleted."
+msgstr ""
+
+#: Controller/EmployesFormationsController.php:108
+msgid "The employes formation could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/FormationsController.php:57
+#: Controller/FormationsController.php:83
+msgid "The formation has been saved."
+msgstr ""
+
+#: Controller/FormationsController.php:61
+#: Controller/FormationsController.php:87
+msgid "The formation could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/FormationsController.php:106
+msgid "The formation has been deleted."
+msgstr ""
+
+#: Controller/FormationsController.php:108
+msgid "The formation could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:54
+#: Controller/UsersController.php:78
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:58
+#: Controller/UsersController.php:82
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:99
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:101
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Categories/add.ctp:9
+#: Template/Categories/edit.ctp:9
+#: Template/Categories/index.ctp:9
+#: Template/Categories/index.ctp:22
+#: Template/Categories/view.ctp:9
+#: Template/Civilites/add.ctp:9
+#: Template/Civilites/edit.ctp:9
+#: Template/Civilites/index.ctp:9
+#: Template/Civilites/index.ctp:24
+#: Template/Civilites/view.ctp:9
+#: Template/Civilites/view.ctp:53
+#: Template/Employes/add.ctp:9
+#: Template/Employes/edit.ctp:9
+#: Template/Employes/index.ctp:9
+#: Template/Employes/index.ctp:44
+#: Template/Employes/view.ctp:9
+#: Template/Employes/view.ctp:73
+#: Template/EmployesFormations/add.ctp:9
+#: Template/EmployesFormations/edit.ctp:9
+#: Template/EmployesFormations/index.ctp:9
+#: Template/EmployesFormations/index.ctp:29
+#: Template/EmployesFormations/view.ctp:9
+#: Template/Formations/add.ctp:9
+#: Template/Formations/edit.ctp:9
+#: Template/Formations/index.ctp:9
+#: Template/Formations/index.ctp:32
+#: Template/Formations/view.ctp:9
+#: Template/Formations/view.ctp:70
+#: Template/Users/add.ctp:9
+#: Template/Users/edit.ctp:9
+#: Template/Users/index.ctp:9
+#: Template/Users/index.ctp:32
+#: Template/Users/view.ctp:9
+msgid "Actions"
+msgstr ""
+
+#: Template/Categories/add.ctp:10
+#: Template/Categories/edit.ctp:16
+#: Template/Categories/view.ctp:12
+#: Template/Formations/add.ctp:11
+#: Template/Formations/edit.ctp:17
+#: Template/Formations/index.ctp:11
+#: Template/Formations/view.ctp:14
+msgid "List Categories"
+msgstr ""
+
+#: Template/Categories/add.ctp:16
+msgid "Add Category"
+msgstr ""
+
+#: Template/Categories/add.ctp:21
+#: Template/Categories/edit.ctp:27
+#: Template/Civilites/add.ctp:23
+#: Template/Civilites/edit.ctp:29
+#: Template/Employes/add.ctp:33
+#: Template/Employes/edit.ctp:39
+#: Template/EmployesFormations/add.ctp:28
+#: Template/EmployesFormations/edit.ctp:34
+#: Template/Formations/add.ctp:31
+#: Template/Formations/edit.ctp:37
+#: Template/Users/add.ctp:29
+#: Template/Users/edit.ctp:37
+#: View/Helper/FormHelper.php:2028
+msgid "Submit"
+msgstr ""
+
+#: Template/Categories/edit.ctp:11
+#: Template/Categories/index.ctp:35
+#: Template/Civilites/edit.ctp:11
+#: Template/Civilites/index.ctp:37
+#: Template/Civilites/view.ctp:70
+#: Template/Employes/edit.ctp:11
+#: Template/Employes/index.ctp:63
+#: Template/Employes/view.ctp:87
+#: Template/EmployesFormations/edit.ctp:11
+#: Template/EmployesFormations/index.ctp:45
+#: Template/Formations/edit.ctp:11
+#: Template/Formations/index.ctp:48
+#: Template/Formations/view.ctp:87
+#: Template/Users/edit.ctp:11
+#: Template/Users/index.ctp:48
+msgid "Delete"
+msgstr ""
+
+#: Template/Categories/edit.ctp:13
+#: Template/Categories/index.ctp:35
+#: Template/Categories/view.ctp:11
+#: Template/Civilites/edit.ctp:13
+#: Template/Civilites/index.ctp:37
+#: Template/Civilites/view.ctp:11
+#: Template/Civilites/view.ctp:70
+#: Template/Employes/edit.ctp:13
+#: Template/Employes/index.ctp:63
+#: Template/Employes/view.ctp:11
+#: Template/Employes/view.ctp:87
+#: Template/EmployesFormations/edit.ctp:13
+#: Template/EmployesFormations/index.ctp:45
+#: Template/EmployesFormations/view.ctp:11
+#: Template/Formations/edit.ctp:13
+#: Template/Formations/index.ctp:48
+#: Template/Formations/view.ctp:11
+#: Template/Formations/view.ctp:87
+#: Template/Users/edit.ctp:13
+#: Template/Users/index.ctp:48
+#: Template/Users/view.ctp:11
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Categories/edit.ctp:22
+#: Template/Categories/view.ctp:10
+msgid "Edit Category"
+msgstr ""
+
+#: Template/Categories/index.ctp:10
+#: Template/Categories/view.ctp:13
+#: Template/Formations/add.ctp:12
+#: Template/Formations/edit.ctp:18
+#: Template/Formations/index.ctp:12
+#: Template/Formations/view.ctp:15
+#: Template/Users/edit.ctp:21
+#: Template/Users/index.ctp:14
+#: Template/Users/view.ctp:17
+msgid "New Category"
+msgstr ""
+
+#: Template/Categories/index.ctp:14
+msgid "Categories"
+msgstr ""
+
+#: Template/Categories/index.ctp:33
+#: Template/Civilites/index.ctp:35
+#: Template/Civilites/view.ctp:68
+#: Template/Employes/index.ctp:61
+#: Template/Employes/view.ctp:85
+#: Template/EmployesFormations/index.ctp:43
+#: Template/Formations/index.ctp:46
+#: Template/Formations/view.ctp:85
+#: Template/Users/index.ctp:46
+#: View/Helper/PaginatorHelper.php:1269
+msgid "View"
+msgstr ""
+
+#: Template/Categories/index.ctp:34
+#: Template/Civilites/index.ctp:36
+#: Template/Civilites/view.ctp:69
+#: Template/Employes/index.ctp:62
+#: Template/Employes/view.ctp:86
+#: Template/EmployesFormations/index.ctp:44
+#: Template/Formations/index.ctp:47
+#: Template/Formations/view.ctp:86
+#: Template/Users/index.ctp:47
+msgid "Edit"
+msgstr ""
+
+#: Template/Categories/index.ctp:43
+#: Template/Civilites/index.ctp:45
+#: Template/Employes/index.ctp:71
+#: Template/EmployesFormations/index.ctp:53
+#: Template/Formations/index.ctp:56
+#: Template/Users/index.ctp:56
+msgid "first"
+msgstr ""
+
+#: Template/Categories/index.ctp:44
+#: Template/Civilites/index.ctp:46
+#: Template/Employes/index.ctp:72
+#: Template/EmployesFormations/index.ctp:54
+#: Template/Formations/index.ctp:57
+#: Template/Users/index.ctp:57
+msgid "previous"
+msgstr ""
+
+#: Template/Categories/index.ctp:46
+#: Template/Civilites/index.ctp:48
+#: Template/Employes/index.ctp:74
+#: Template/EmployesFormations/index.ctp:56
+#: Template/Formations/index.ctp:59
+#: Template/Users/index.ctp:59
+msgid "next"
+msgstr ""
+
+#: Template/Categories/index.ctp:47
+#: Template/Civilites/index.ctp:49
+#: Template/Employes/index.ctp:75
+#: Template/EmployesFormations/index.ctp:57
+#: Template/Formations/index.ctp:60
+#: Template/Users/index.ctp:60
+msgid "last"
+msgstr ""
+
+#: Template/Categories/index.ctp:49
+#: Template/Civilites/index.ctp:51
+#: Template/Employes/index.ctp:77
+#: Template/EmployesFormations/index.ctp:59
+#: Template/Formations/index.ctp:62
+#: Template/Users/index.ctp:62
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr ""
+
+#: Template/Categories/view.ctp:11
+msgid "Delete Category"
+msgstr ""
+
+#: Template/Categories/view.ctp:20
+msgid "Categorie"
+msgstr ""
+
+#: Template/Categories/view.ctp:24
+#: Template/Civilites/view.ctp:26
+#: Template/Civilites/view.ctp:43
+#: Template/Employes/view.ctp:66
+#: Template/EmployesFormations/view.ctp:36
+#: Template/Formations/view.ctp:39
+#: Template/Formations/view.ctp:60
+msgid "Id"
+msgstr ""
+
+#: Template/Categories/view.ctp:28
+#: Template/Civilites/view.ctp:30
+#: Template/Civilites/view.ctp:51
+#: Template/Employes/view.ctp:53
+#: Template/Employes/view.ctp:71
+#: Template/EmployesFormations/view.ctp:44
+#: Template/Formations/view.ctp:47
+#: Template/Formations/view.ctp:68
+#: Template/Users/view.ctp:39
+msgid "Created"
+msgstr ""
+
+#: Template/Categories/view.ctp:32
+#: Template/Civilites/view.ctp:34
+#: Template/Civilites/view.ctp:52
+#: Template/Employes/view.ctp:57
+#: Template/Employes/view.ctp:72
+#: Template/EmployesFormations/view.ctp:48
+#: Template/Formations/view.ctp:51
+#: Template/Formations/view.ctp:69
+#: Template/Users/view.ctp:43
+msgid "Modified"
+msgstr ""
+
+#: Template/Civilites/add.ctp:10
+#: Template/Civilites/edit.ctp:16
+#: Template/Civilites/view.ctp:12
+msgid "List Civilites"
+msgstr ""
+
+#: Template/Civilites/add.ctp:11
+#: Template/Civilites/edit.ctp:17
+#: Template/Civilites/index.ctp:11
+#: Template/Civilites/view.ctp:14
+#: Template/Employes/add.ctp:10
+#: Template/Employes/edit.ctp:16
+#: Template/Employes/view.ctp:12
+#: Template/EmployesFormations/add.ctp:11
+#: Template/EmployesFormations/edit.ctp:17
+#: Template/EmployesFormations/index.ctp:11
+#: Template/EmployesFormations/view.ctp:14
+#: Template/Formations/add.ctp:13
+#: Template/Formations/edit.ctp:19
+#: Template/Formations/index.ctp:13
+#: Template/Formations/view.ctp:16
+#: Template/Users/add.ctp:14
+#: Template/Users/edit.ctp:22
+#: Template/Users/index.ctp:15
+#: Template/Users/view.ctp:18
+msgid "List Employes"
+msgstr ""
+
+#: Template/Civilites/add.ctp:12
+#: Template/Civilites/edit.ctp:18
+#: Template/Civilites/index.ctp:12
+#: Template/Civilites/view.ctp:15
+#: Template/Employes/view.ctp:13
+#: Template/EmployesFormations/add.ctp:12
+#: Template/EmployesFormations/edit.ctp:18
+#: Template/EmployesFormations/index.ctp:12
+#: Template/EmployesFormations/view.ctp:15
+#: Template/Formations/add.ctp:14
+#: Template/Formations/edit.ctp:20
+#: Template/Formations/index.ctp:14
+#: Template/Formations/view.ctp:17
+#: Template/Users/add.ctp:15
+#: Template/Users/edit.ctp:23
+#: Template/Users/index.ctp:16
+#: Template/Users/view.ctp:19
+msgid "New Employe"
+msgstr ""
+
+#: Template/Civilites/add.ctp:18
+msgid "Add Civilite"
+msgstr ""
+
+#: Template/Civilites/edit.ctp:24
+#: Template/Civilites/view.ctp:10
+msgid "Edit Civilite"
+msgstr ""
+
+#: Template/Civilites/index.ctp:10
+#: Template/Civilites/view.ctp:13
+msgid "New Civilite"
+msgstr ""
+
+#: Template/Civilites/index.ctp:16
+msgid "Civilites"
+msgstr ""
+
+#: Template/Civilites/view.ctp:11
+msgid "Delete Civilite"
+msgstr ""
+
+#: Template/Civilites/view.ctp:22
+#: Template/Employes/view.ctp:29
+msgid "Civilite"
+msgstr ""
+
+#: Template/Civilites/view.ctp:39
+#: Template/Formations/view.ctp:56
+msgid "Related Employes"
+msgstr ""
+
+#: Template/Civilites/view.ctp:44
+#: Template/Employes/view.ctp:25
+#: Template/Employes/view.ctp:67
+#: Template/Formations/view.ctp:27
+#: Template/Formations/view.ctp:61
+msgid "Numero"
+msgstr ""
+
+#: Template/Civilites/view.ctp:45
+#: Template/Formations/view.ctp:62
+msgid "Civilite Id"
+msgstr ""
+
+#: Template/Civilites/view.ctp:46
+#: Template/Employes/view.ctp:33
+#: Template/Formations/view.ctp:63
+#: Template/Users/view.ctp:26
+msgid "Nom"
+msgstr ""
+
+#: Template/Civilites/view.ctp:47
+#: Template/Employes/view.ctp:37
+#: Template/Formations/view.ctp:64
+msgid "Prenom"
+msgstr ""
+
+#: Template/Civilites/view.ctp:48
+#: Template/Employes/view.ctp:41
+#: Template/Formations/view.ctp:65
+msgid "Cellulaire"
+msgstr ""
+
+#: Template/Civilites/view.ctp:49
+#: Template/Employes/view.ctp:45
+#: Template/Formations/view.ctp:66
+msgid "Courriel"
+msgstr ""
+
+#: Template/Civilites/view.ctp:50
+#: Template/Formations/view.ctp:67
+msgid "User Id"
+msgstr ""
+
+#: Template/Employes/add.ctp:12
+#: Template/Employes/index.ctp:12
+msgid "List superviseurs"
+msgstr ""
+
+#: Template/Employes/add.ctp:13
+#: Template/Employes/index.ctp:13
+msgid "New superviseurs"
+msgstr ""
+
+#: Template/Employes/add.ctp:14
+#: Template/Employes/edit.ctp:20
+#: Template/Employes/index.ctp:14
+#: Template/Employes/view.ctp:17
+#: Template/EmployesFormations/add.ctp:13
+#: Template/EmployesFormations/edit.ctp:19
+#: Template/EmployesFormations/index.ctp:13
+#: Template/EmployesFormations/view.ctp:16
+#: Template/Formations/add.ctp:10
+#: Template/Formations/edit.ctp:16
+#: Template/Formations/view.ctp:12
+#: Template/Users/add.ctp:12
+#: Template/Users/edit.ctp:19
+#: Template/Users/index.ctp:12
+#: Template/Users/view.ctp:15
+msgid "List Formations"
+msgstr ""
+
+#: Template/Employes/add.ctp:15
+#: Template/Employes/edit.ctp:21
+#: Template/Employes/index.ctp:15
+#: Template/Employes/view.ctp:18
+#: Template/EmployesFormations/add.ctp:14
+#: Template/EmployesFormations/edit.ctp:20
+#: Template/EmployesFormations/index.ctp:14
+#: Template/EmployesFormations/view.ctp:17
+#: Template/Formations/index.ctp:10
+#: Template/Formations/view.ctp:13
+#: Template/Users/add.ctp:13
+#: Template/Users/edit.ctp:20
+#: Template/Users/index.ctp:13
+#: Template/Users/view.ctp:16
+msgid "New Formation"
+msgstr ""
+
+#: Template/Employes/add.ctp:21
+msgid "Add Employe"
+msgstr ""
+
+#: Template/Employes/edit.ctp:18
+#: Template/Users/add.ctp:10
+msgid "List superviseur"
+msgstr ""
+
+#: Template/Employes/edit.ctp:19
+msgid "New superviseur"
+msgstr ""
+
+#: Template/Employes/edit.ctp:27
+#: Template/Employes/view.ctp:10
+msgid "Edit Employe"
+msgstr ""
+
+#: Template/Employes/index.ctp:10
+msgid "add employe"
+msgstr ""
+
+#: Template/Employes/index.ctp:19
+msgid "Employes"
+msgstr ""
+
+#: Template/Employes/view.ctp:11
+msgid "Delete Employe"
+msgstr ""
+
+#: Template/Employes/view.ctp:15
+#: Template/Formations/add.ctp:15
+#: Template/Formations/edit.ctp:21
+#: Template/Formations/index.ctp:15
+#: Template/Formations/view.ctp:18
+#: Template/Users/edit.ctp:16
+#: Template/Users/view.ctp:12
+msgid "List Superviseur"
+msgstr ""
+
+#: Template/Employes/view.ctp:16
+#: Template/Formations/add.ctp:16
+#: Template/Formations/edit.ctp:22
+#: Template/Formations/index.ctp:16
+#: Template/Formations/view.ctp:19
+#: Template/Users/edit.ctp:17
+#: Template/Users/index.ctp:10
+#: Template/Users/view.ctp:13
+msgid "New Superviseur"
+msgstr ""
+
+#: Template/Employes/view.ctp:49
+#: Template/Users/index.ctp:21
+msgid "Superviseur"
+msgstr ""
+
+#: Template/Employes/view.ctp:62
+msgid "Related Formations"
+msgstr ""
+
+#: Template/Employes/view.ctp:68
+#: Template/Formations/view.ctp:31
+msgid "Titre"
+msgstr ""
+
+#: Template/Employes/view.ctp:69
+msgid "Categorie Id"
+msgstr ""
+
+#: Template/Employes/view.ctp:70
+#: Template/Formations/view.ctp:43
+msgid "Duree"
+msgstr ""
+
+#: Template/EmployesFormations/add.ctp:10
+#: Template/EmployesFormations/edit.ctp:16
+#: Template/EmployesFormations/view.ctp:12
+msgid "List Employes Formations"
+msgstr ""
+
+#: Template/EmployesFormations/add.ctp:20
+msgid "Add Employes Formation"
+msgstr ""
+
+#: Template/EmployesFormations/edit.ctp:26
+#: Template/EmployesFormations/view.ctp:10
+msgid "Edit Employes Formation"
+msgstr ""
+
+#: Template/EmployesFormations/index.ctp:10
+#: Template/EmployesFormations/view.ctp:13
+msgid "New Employes Formation"
+msgstr ""
+
+#: Template/EmployesFormations/index.ctp:18
+msgid "Employes Formations"
+msgstr ""
+
+#: Template/EmployesFormations/view.ctp:11
+msgid "Delete Employes Formation"
+msgstr ""
+
+#: Template/EmployesFormations/view.ctp:24
+msgid "Employe"
+msgstr ""
+
+#: Template/EmployesFormations/view.ctp:28
+msgid "Formation"
+msgstr ""
+
+#: Template/EmployesFormations/view.ctp:32
+msgid "Remarques"
+msgstr ""
+
+#: Template/EmployesFormations/view.ctp:40
+msgid "Date Faite"
+msgstr ""
+
+#: Template/Formations/add.ctp:22
+msgid "Add Formation"
+msgstr ""
+
+#: Template/Formations/edit.ctp:28
+#: Template/Formations/view.ctp:10
+msgid "Edit Formation"
+msgstr ""
+
+#: Template/Formations/index.ctp:21
+msgid "Formations"
+msgstr ""
+
+#: Template/Formations/view.ctp:11
+msgid "Delete Formation"
+msgstr ""
+
+#: Template/Formations/view.ctp:35
+msgid "Category"
+msgstr ""
+
+#: Template/Layout/error.ctp:36
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:44
+msgid "Back"
+msgstr ""
+
+#: Template/Users/add.ctp:21
+msgid "Add User"
+msgstr ""
+
+#: Template/Users/edit.ctp:29
+msgid "Edit User"
+msgstr ""
+
+#: Template/Users/view.ctp:10
+msgid "Edit Superviseur"
+msgstr ""
+
+#: Template/Users/view.ctp:11
+msgid "Delete Superviseur"
+msgstr ""
+
+#: Template/Users/view.ctp:30
+msgid "Email"
+msgstr ""
+
+#: Template/Users/view.ctp:34
+msgid "Password"
+msgstr ""
+
+#: Template/Users/view.ctp:47
+msgid "Admin"
+msgstr ""
+
+#: Template/Users/view.ctp:48
+msgid "Yes"
+msgstr ""
+
+#: Template/Users/view.ctp:48
+msgid "No"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:499
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:181
+#: Http/Middleware/CsrfProtectionMiddleware.php:227
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:185
+#: Http/Middleware/CsrfProtectionMiddleware.php:231
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:300
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:302
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: Http/Response.php:2652
+msgid "The requested file contains `..` and will not be read."
+msgstr ""
+
+#: Http/Response.php:2673
+msgid "The requested file was not found"
+msgstr ""
+
+#: I18n/Number.php:89
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:91
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:93
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:95
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:87
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154
+#: I18n/RelativeTimeFormatter.php:332
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155
+#: I18n/RelativeTimeFormatter.php:333
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156
+#: I18n/RelativeTimeFormatter.php:334
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:157
+#: I18n/RelativeTimeFormatter.php:335
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171
+#: I18n/RelativeTimeFormatter.php:346
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172
+#: I18n/RelativeTimeFormatter.php:347
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:173
+#: I18n/RelativeTimeFormatter.php:348
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:174
+#: I18n/RelativeTimeFormatter.php:349
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47
+#: I18n/RelativeTimeFormatter.php:126
+#: I18n/RelativeTimeFormatter.php:316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51
+#: I18n/RelativeTimeFormatter.php:129
+#: I18n/RelativeTimeFormatter.php:319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57
+#: I18n/RelativeTimeFormatter.php:132
+#: I18n/RelativeTimeFormatter.php:322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59
+#: I18n/RelativeTimeFormatter.php:135
+#: I18n/RelativeTimeFormatter.php:325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64
+#: I18n/RelativeTimeFormatter.php:138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68
+#: I18n/RelativeTimeFormatter.php:141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72
+#: I18n/RelativeTimeFormatter.php:144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ORM/RulesChecker.php:56
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:103
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:127
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:933
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:2436
+#: View/Form/ArrayContext.php:225
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:2458
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:2608
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1107
+msgid "Edit {0}"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1109
+msgid "New {0}"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:818
+msgid "Home"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:539
+msgid "January"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "December"
+msgstr ""
+

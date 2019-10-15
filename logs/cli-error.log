@@ -1,0 +1,31 @@
+2019-10-15 19:05:45 Error: [RuntimeException] Unknown command `cake migration`. Run `cake --help` to get the list of valid commands. in C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Console\CommandRunner.php on line 347
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Console\CommandRunner.php(157): Cake\Console\CommandRunner->resolveName(Object(Cake\Console\CommandCollection), Object(Cake\Console\ConsoleIo), 'migration')
+#1 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\bin\cake.php(12): Cake\Console\CommandRunner->run(Array)
+#2 {main}
+
+
+2019-10-15 19:16:25 Error: [PDOException] SQLSTATE[HY000]: General error: 1 no such table: employes in C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Database\Driver\Sqlite.php on line 106
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Database\Driver\Sqlite.php(106): PDO->prepare('SELECT * FROM e...')
+#1 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Database\Connection.php(274): Cake\Database\Driver\Sqlite->prepare(Object(Cake\Database\Query))
+#2 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php(67): Cake\Database\Connection->Cake\Database\{closure}()
+#3 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Database\Connection.php(281): Cake\Core\Retry\CommandRetry->run(Object(Closure))
+#4 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Database\Connection.php(348): Cake\Database\Connection->prepare(Object(Cake\Database\Query))
+#5 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php(67): Cake\Database\Connection->Cake\Database\{closure}()
+#6 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Database\Connection.php(352): Cake\Core\Retry\CommandRetry->run(Object(Closure))
+#7 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Database\Connection.php(301): Cake\Database\Connection->query(Object(Cake\Database\Query))
+#8 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php(67): Cake\Database\Connection->Cake\Database\{closure}()
+#9 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Database\Connection.php(305): Cake\Core\Retry\CommandRetry->run(Object(Closure))
+#10 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\migrations\src\Shell\Task\SeedTask.php(111): Cake\Database\Connection->execute(Object(Cake\Database\Query))
+#11 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\bake\src\Shell\Task\SimpleBakeTask.php(104): Migrations\Shell\Task\SeedTask->templateData()
+#12 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\migrations\src\Shell\Task\SeedTask.php(130): Bake\Shell\Task\SimpleBakeTask->bake('Employes')
+#13 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\bake\src\Shell\Task\SimpleBakeTask.php(91): Migrations\Shell\Task\SeedTask->bake('Employes')
+#14 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Console\Shell.php(531): Bake\Shell\Task\SimpleBakeTask->main('Employes')
+#15 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Console\Shell.php(524): Cake\Console\Shell->runCommand(Array, false, Array)
+#16 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Console\CommandRunner.php(385): Cake\Console\Shell->runCommand(Array, true)
+#17 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\vendor\cakephp\cakephp\src\Console\CommandRunner.php(162): Cake\Console\CommandRunner->runShell(Object(Bake\Shell\BakeShell), Array)
+#18 C:\Program Files (x86)\Ampps\www\cake\cakephp-3-8-5\bin\cake.php(12): Cake\Console\CommandRunner->run(Array)
+#19 {main}
+
+
